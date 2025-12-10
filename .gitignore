@@ -1,3 +1,4 @@
 .env
 /env
 /google-cloud-sdk
+/faiss_index
